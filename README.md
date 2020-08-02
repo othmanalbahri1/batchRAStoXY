@@ -1,6 +1,6 @@
 # batchRAStoXY
 
-This python script converts and normalizes Rigaku XRR instruments' files (.ras) to .xy files which are widely used in crystallography and reflectometry software such as GenX.
+This python script converts and normalizes Rigaku XRR instruments' files (.ras) to .xy files which are widely used in crystallography and reflectometry software such as [GenX](https://genx.sourceforge.io/).
 
 # How to
 
