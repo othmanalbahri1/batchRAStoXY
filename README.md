@@ -4,8 +4,8 @@ This python script converts and normalizes Rigaku XRR instruments' files (.ras) 
 
 # How to
 
-- Put all your RAS files in one folder then run the script.
-- Enter the directory of the folder containing your RAS files as input when prompted.
+- Put all your .ras files in one folder then run the script.
+- Enter the directory of the folder containing your .ras files as input when prompted.
 - The output files names contain will be written to the same directory but will have _normalized.xy suffix.
 
 # Help
